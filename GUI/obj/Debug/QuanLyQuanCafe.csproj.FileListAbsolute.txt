@@ -1,0 +1,34 @@
+c:\users\truong\documents\visual studio 2012\Projects\CafeSoft\GUI\bin\Debug\GUI.exe.config
+c:\users\truong\documents\visual studio 2012\Projects\CafeSoft\GUI\bin\Debug\GUI.exe
+c:\users\truong\documents\visual studio 2012\Projects\CafeSoft\GUI\bin\Debug\GUI.pdb
+c:\users\truong\documents\visual studio 2012\Projects\CafeSoft\GUI\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+c:\users\truong\documents\visual studio 2012\Projects\CafeSoft\GUI\obj\Debug\GUI.Properties.Resources.resources
+c:\users\truong\documents\visual studio 2012\Projects\CafeSoft\GUI\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+c:\users\truong\documents\visual studio 2012\Projects\CafeSoft\GUI\obj\Debug\GUI.exe
+c:\users\truong\documents\visual studio 2012\Projects\CafeSoft\GUI\obj\Debug\GUI.pdb
+c:\users\truong\documents\visual studio 2012\Projects\CafeSoft\GUI\obj\Debug\GUI.frmLogin.resources
+c:\users\truong\documents\visual studio 2012\Projects\CafeSoft\GUI\obj\Debug\GUI.frmTableManager.resources
+C:\Users\Truong\Desktop\CafeSoft\GUI\bin\Debug\GUI.exe.config
+C:\Users\Truong\Desktop\CafeSoft\GUI\obj\Debug\GUI.exe
+C:\Users\Truong\Desktop\CafeSoft\GUI\obj\Debug\GUI.pdb
+C:\Users\Truong\Desktop\CafeSoft\GUI\bin\Debug\GUI.exe
+C:\Users\Truong\Desktop\CafeSoft\GUI\bin\Debug\GUI.pdb
+C:\Users\Truong\Desktop\CafeSoft\GUI\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\Truong\Desktop\CafeSoft\GUI\obj\Debug\GUI.frmTableManager.resources
+C:\Users\Truong\Desktop\CafeSoft\GUI\obj\Debug\GUI.frmLogin.resources
+C:\Users\Truong\Desktop\CafeSoft\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Truong\Desktop\CafeSoft\GUI\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\Truong\Desktop\CafeSoft\GUI\obj\Debug\GUI.FrmAccountProfile.resources
+C:\Users\Truong\Desktop\CafeSoft\GUI\obj\Debug\GUI.frmAdmin.resources
+D:\C#\CafeSoft\GUI\bin\Debug\GUI.exe.config
+D:\C#\CafeSoft\GUI\bin\Debug\GUI.exe
+D:\C#\CafeSoft\GUI\bin\Debug\GUI.pdb
+D:\C#\CafeSoft\GUI\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+D:\C#\CafeSoft\GUI\obj\Debug\GUI.FrmAccountProfile.resources
+D:\C#\CafeSoft\GUI\obj\Debug\GUI.frmAdmin.resources
+D:\C#\CafeSoft\GUI\obj\Debug\GUI.frmTableManager.resources
+D:\C#\CafeSoft\GUI\obj\Debug\GUI.frmLogin.resources
+D:\C#\CafeSoft\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\C#\CafeSoft\GUI\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+D:\C#\CafeSoft\GUI\obj\Debug\GUI.exe
+D:\C#\CafeSoft\GUI\obj\Debug\GUI.pdb
